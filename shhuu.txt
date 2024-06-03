@@ -1,0 +1,37 @@
+official website for HTML-mdn web docs
+(website-first contentful paint)
+flaticon.com-for icons
+web-unsplash.com(for hd images)
+<!-- in meta tags we write  attributes -->
+<!-- title tag- is name on the tops -->
+<!-- body tag-Things we can see(on page) are written in body -->
+<!-- h tags- from h1 to h6 -->
+<!-- br-is used to break line -->
+<!-- p tag- is used to write paragraph -->
+<!-- a-anchor tag is used to visit a website  -->
+<!-- target tag is used to open that link or web in new tab -->
+<!-- ul gives unordered list(...) -->
+<!-- dl is discription list -->
+<!-- ol is an ordered list(1.2.3.) -->
+<anchor tag-a (website link)
+<style tag-this comes under css file.
+to connect html file with css file-link....
+	/* background color of body website */
+	/* color of font */
+<summary tag- accordian(hidden)>
+FCP-first conentful paint-static(things we already have)
+LCP-
+<class vs id
+	(class can be used in any tag like html,body,head.
+	-same class can be given to multiple tags
+	-symbol for selecting class tag=" .class_name ")
+id-every tag must have unique tag
+	-symbol for selecting id tag=#
+HTTP:it is a protocol which sends and receives information
+for http we use <form action="">(in form tag "for" and "id" label must be same
+methods-1.Get:you talk to the browser or server
+	2.Post:you talk to server
+1.GITHUB ACCOUNT
+2.New Repo without Readme.md
+3.download git
+
